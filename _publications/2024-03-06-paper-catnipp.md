@@ -2,7 +2,7 @@
 title: "CAtNIPP: Context-aware attention-based network for informative path planning"
 collection: publications
 category: conferences
-permalink: /publication/2024-03-06-paper-title-number-4
+permalink: /publication/2024-03-06-catnipp
 excerpt: 'Informative Path Planning (IPP) is a challenging problem that requires balancing exploration and exploitation under resource constraints. CAtNIPP introduces a fully reactive, deep reinforcement learning-based solution using self-attention to guide efficient path planning. By learning to form a global context and make adaptive local decisions, CAtNIPP outperforms traditional IPP methods in both performance and computation speed, with demonstrated results on real hardware.'
 date: 2024-03-06
 venue: 'The 6th Conference on Robot Learning'
