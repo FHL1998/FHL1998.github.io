@@ -3,8 +3,7 @@ title: "MaViLa: Unlocking new potentials in smart manufacturing through vision l
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-18-mavila-number-2
-excerpt: '**Concise Summary:**
-The paper introduces MaViLa, a vision-language model tailored for smart manufacturing, which improves visual understanding through a retrieval-augmented dataset creation and a two-stage training process. MaViLa outperforms general-purpose models in tasks like process optimization and quality control, supporting better decision-making and integration with external tools, thus advancing autonomous manufacturing systems.'
+excerpt: 'The paper introduces MaViLa, a vision-language model tailored for smart manufacturing, which improves visual understanding through a retrieval-augmented dataset creation and a two-stage training process. MaViLa outperforms general-purpose models in tasks like process optimization and quality control, supporting better decision-making and integration with external tools, thus advancing autonomous manufacturing systems.'
 date: 2025-03-18
 venue: 'Journal of Manufacturing Systems'
 paperurl: 'https://doi.org/10.1016/j.jmsy.2025.02.017'
