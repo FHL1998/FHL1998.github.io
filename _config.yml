@@ -22,7 +22,7 @@ repository               : "FHL1998/fhl1998.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://storage.googleapis.com/post_haolin/profile.png"
   name             : "Haolin Fan"
   pronouns         : # example: "she/her"  
   bio              : "Creating digital reflections that make physical systems smarter."
