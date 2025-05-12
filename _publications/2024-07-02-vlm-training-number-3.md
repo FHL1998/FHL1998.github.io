@@ -3,7 +3,7 @@ title: "Enhancing metal additive manufacturing training with the advanced vision
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-02-vlm-training-number-3
-excerpt: 'This paper presents a novel training system for the Renishaw AM400 metal printer that combines Vision Language Models (VLM), Augmented Reality (AR), and Digital Twins (DT). By integrating AR for immersive learning and using VLM for intelligent, multi-modal guidance—including tool integration like YOLO-v7 and CRAFT—the system enhances recognition, user interaction, and accessibility for non-experts, offering a new benchmark for smart manufacturing training.'
+excerpt: 'This paper presents a novel training system for the Renishaw AM400 metal printer that combines Vision Language Models (VLM), Augmented Reality (AR), and Digital Twins (DT). The system enhances recognition, user interaction, and accessibility for non-experts, offering a new benchmark for smart manufacturing training.'
 date: 2024-07-02
 venue: 'Journal of Manufacturing Systems'
 paperurl: 'https://doi.org/10.1016/j.jmsy.2024.06.007'
