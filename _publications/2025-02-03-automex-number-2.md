@@ -1,0 +1,13 @@
+---
+title: "AutoMEX: Streamlining material extrusion with AI agents powered by large language models and knowledge graphs"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-02-03-automex-number-2
+excerpt: 'AutoMEX is a framework that integrates large language models and a knowledge graph to automate the material extrusion (MEX) additive manufacturing process. It enhances workflow integration, from CAD design to machine operation, with minimal human input. Experiments show improved print strength and high user acceptance.'
+date: 2025-02-03
+venue: 'Materials & Design'
+paperurl: 'https://doi.org/10.1016/j.matdes.2025.113644'
+citation: 'Fan, Haolin, et al. "AutoMEX: Streamlining Material Extrusion with AI Agents Powered by Large Language Models and Knowledge Graphs." Materials & Design (2025): 113644.'
+---
+
+Additive manufacturing (AM), particularly material extrusion (MEX), has become a versatile and widely adopted technology with significant applications in the consumer goods and healthcare industries. Despite its affordability, adaptability, and user-friendliness advantages, MEX faces challenges in scaling for mass production due to limited process automation and fragmented domain knowledge, leaving gaps in end-to-end workflow integration. We propose AutoMEX, an innovative framework that integrates large language models (LLMs) as artificial intelligence (AI) agents to automate the MEX process to address these limitations. AutoMEX utilizes a knowledge graph (KG) derived from the scientific literature to enable LLMs to provide expert recommendations on material selection, process parameters, and design considerations, thereby improving accessibility and efficiency. With minimal human intervention, the framework encompasses a complete workflow, including CAD model generation, printing parameter recommendation, slicing, and machine operation. Experimental validation demonstrated a query acceptance rate of 94.6% for the recommendation system and up to a 9.6% improvement in print strength when employing the recommended parameters. These results highlight enhanced quality, autonomy, and customization of AM outputs, making AutoMEX suitable for batch production and streamlined manufacturing processes. While the framework shows promising potential, challenges such as the computational demands of advanced LLMs and the need for continual updates to the KG remain areas for future work. Overall, AutoMEX offers a pathway toward broader adoption and scalability of MEX technology, advancing the field of AM through enhanced automation and efficiency.
