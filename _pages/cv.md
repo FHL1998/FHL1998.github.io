@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * Fall 2024: Research Fellow
-  * CSUN NASA-Funded ARCS Center
-  * Duties included: Merging pull requests
+  * [CSUN NASA-Funded ARCS Center](https://arcs.center/)
+  * Duties included: Research on digital twins and autonomous manufacturing.
   * Supervisor: [Dr. Bingbing Li](https://www.ecs.csun.edu/~bingbing/) at CSUN ARCS, [Dr. Edward Chow](https://www.jpl.nasa.gov/go/nsta/ed-chow/) and [Dr. Thomas T Lu](https://www.jpl.nasa.gov/site/research/thomaslu/) at NASA JPL
   
 Skills
