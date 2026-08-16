@@ -1,38 +1,44 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
-    conference: NeurIPS 2024 Datasets and Benchmarks Track.
-    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    data: https://github.com/wufeim/imagenet3d
-    page: https://imagenet3d.github.io/
-    image: https://img.yliu.me/teaser/imagenet3d.png
+#  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
+#    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
+#    conference_short: NeurIPS
+#    conference: NeurIPS 2024 Datasets and Benchmarks Track.
+#    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
+#    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+#    data: https://github.com/wufeim/imagenet3d
+#    page: https://imagenet3d.github.io/
+#    image: https://img.yliu.me/teaser/imagenet3d.png
 
   - title: "From natural language to RL formulation: a digital twin–centered optimization framework for manufacturing systems."
     authors: <strong>Haolin Fan</strong>, Bingbing Li, Jiajun Ma, Edward Chow, Jerry Ying Hsi Fuh, Hong-Chao Zhang
     conference_short: CIRP
     conference: CIRP Annals <strong>(CIRP)</strong>, 2026.
     page: https://www.sciencedirect.com/science/article/pii/S0007850626001150
+    image: https://storage.googleapis.com/post_haolin/nlp2rl_schematic.jpg
 
   - title: "A Unified Framework for Large Language Model-Guided Reinforcement Learning in Digital Twin Industrial Environments"
     authors: <strong>Haolin Fan</strong>, Edward Chow, Thomas Lu, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li
     conference_short: RCIM
     conference: Robotics and Computer-Integrated Manufacturing <strong>(RCIM)</strong>, Volume 99, 103215, 2026.
     page: https://www.sciencedirect.com/science/article/pii/S0736584525002698
+    image: https://img.yliu.me/teaser/imagenet3d.png
 
   - title: "Multimodal Wearable Biosensing Meets Multidomain AI: A Pathway to Decentralized Healthcare"
     authors: Chenshu Liu, <strong>Haolin Fan</strong>, Minwoo Kim, Tong Zhou, Pinyi Yang, Lingdi Zhao, Yiran Wang, Ziyuan Che, Chia-Wei Liu, Bingbing Li, Yangzhi Zhu
     conference_short: AdvSci
     conference: Advanced Science <strong>(Advanced Science)</strong>, 2026.
     page: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202522900
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
 
   - title: "Sim2Know: New Paradigm of Digital Twins to Design and Inform Human-Centric Knowledge System"
     authors: Bingbing Li, <strong>Haolin Fan</strong>, Zhen Fan, John Ahmet Erkoyuncu, Hong-Chao Zhang, Haihong Huang
     conference_short: CIRP
     conference: CIRP Annals <strong>(CIRP)</strong>, Volume 74, Number 1, pages 215-219, 2025.
     page: https://www.sciencedirect.com/science/article/pii/S0007850625000745
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
 
   - title: "MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing"
     authors: <strong>Haolin Fan</strong>, Zhen Fan, Chenshu Liu, Jianhao Zhu, Tom Gibbs, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li
@@ -40,6 +46,8 @@ main:
     conference: npj Advanced Manufacturing <strong>(npjAM)</strong>, Volume 2, Article 25, 2025.
     page: https://www.nature.com/articles/s44334-025-00038-9
     code: https://github.com/FHL1998/MetalMind
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
 
   - title: "MaViLa: Unlocking New Potentials in Smart Manufacturing through Vision Language Models"
     authors: <strong>Haolin Fan</strong>, Chenshu Liu, Neville Elieh Janvisloo, Shijie Bian, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li
