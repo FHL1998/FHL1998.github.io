@@ -22,14 +22,14 @@ main:
     conference_short: RCIM
     conference: Robotics and Computer-Integrated Manufacturing <strong>(RCIM)</strong>, Volume 99, 103215, 2026.
     page: https://www.sciencedirect.com/science/article/pii/S0736584525002698
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://storage.googleapis.com/llm_rl.jpg
 
   - title: "Multimodal Wearable Biosensing Meets Multidomain AI: A Pathway to Decentralized Healthcare"
     authors: Chenshu Liu, <strong>Haolin Fan</strong>, Minwoo Kim, Tong Zhou, Pinyi Yang, Lingdi Zhao, Yiran Wang, Ziyuan Che, Chia-Wei Liu, Bingbing Li, Yangzhi Zhu
     conference_short: AdvSci
     conference: Advanced Science <strong>(Advanced Science)</strong>, 2026.
     page: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202522900
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://storage.googleapis.com/advance_science.jpg
 
 
   - title: "Sim2Know: New Paradigm of Digital Twins to Design and Inform Human-Centric Knowledge System"
@@ -37,7 +37,7 @@ main:
     conference_short: CIRP
     conference: CIRP Annals <strong>(CIRP)</strong>, Volume 74, Number 1, pages 215-219, 2025.
     page: https://www.sciencedirect.com/science/article/pii/S0007850625000745
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://storage.googleapis.com/sim2real_schematic.jpg
 
 
   - title: "MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing"
@@ -46,7 +46,7 @@ main:
     conference: npj Advanced Manufacturing <strong>(npjAM)</strong>, Volume 2, Article 25, 2025.
     page: https://www.nature.com/articles/s44334-025-00038-9
     code: https://github.com/FHL1998/MetalMind
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://storage.googleapis.com/post_haolin/metalmind.jpg
 
 
   - title: "MaViLa: Unlocking New Potentials in Smart Manufacturing through Vision Language Models"
@@ -54,36 +54,42 @@ main:
     conference_short: JMS
     conference: Journal of Manufacturing Systems <strong>(JMS)</strong>, Volume 80, pages 258-271, 2025.
     page: https://www.sciencedirect.com/science/article/pii/S0278612525000470
+    image: https://storage.googleapis.com/post_haolin/mavila_abstract.jpg
 
   - title: "AutoMEX: Streamlining Material Extrusion with AI Agents Powered by Large Language Models and Knowledge Graphs"
     authors: <strong>Haolin Fan</strong>, Junlin Huang, Jilong Xu, Yifei Zhou, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li
     conference_short: M&D
     conference: Materials & Design <strong>(M&D)</strong>, Volume 251, 113644, 2025.
     page: https://www.sciencedirect.com/science/article/pii/S0264127525000644
+    image: https://storage.googleapis.com/post_haolin/automex_framework.jpg
 
   - title: "New Era Towards Autonomous Additive Manufacturing: A Review of Recent Trends and Future Perspectives"
     authors: <strong>Haolin Fan</strong>, Chenshu Liu, Shijie Bian, Changyu Ma, Junlin Huang, Xuan Liu, Marshall Doyle, Thomas Lu, Edward Chow, Lianyi Chen, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li
     conference_short: IJEM
     conference: International Journal of Extreme Manufacturing <strong>(IJEM)</strong>, Volume 7, Number 3, 032006, 2025.
     page: https://www.ijemnet.com/article/doi/10.1088/2631-7990/ada8e4
+    image: https://storage.googleapis.com/post_haolin/future_am.jpg
 
   - title: "Enhancing Metal Additive Manufacturing Training with the Advanced Vision Language Model: A Pathway to Immersive Augmented Reality Training for Non-Experts"
     authors: <strong>Haolin Fan</strong>, Hongji Zhang, Changyu Ma, Tongzi Wu, Jerry Ying Hsi Fuh, Bingbing Li
     conference_short: JMS
     conference: Journal of Manufacturing Systems <strong>(JMS)</strong>, Volume 75, pages 257-269, 2024.
     page: https://www.sciencedirect.com/science/article/pii/S0278612524001341
+    image: https://storage.googleapis.com/post_haolin/metal_am_training.jpg
 
   - title: "Embodied Intelligence in Manufacturing: Leveraging Large Language Models for Autonomous Industrial Robotics"
     authors: <strong>Haolin Fan</strong>, Xuan Liu, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li
     conference_short: JIM
     conference: Journal of Intelligent Manufacturing <strong>(JIM)</strong>, Volume 36, Number 2, pages 1141-1157, 2025.
     page: https://doi.org/10.1007/s10845-023-02294-y
+    image: https://storage.googleapis.com/post_haolin/task3_examples.jpg
 
   - title: "Unleashing the Potential of Large Language Models for Knowledge Augmentation: A Practical Experiment on Incremental Sheet Forming"
     authors: <strong>Haolin Fan</strong>, Jerry Ying Hsi Fuh, Wen Feng Lu, A. Senthil Kumar, Bingbing Li
     conference_short: ISM
     conference: Procedia Computer Science <strong>(ISM)</strong>, Volume 232, pages 1269-1278, 2024.
     page: https://www.sciencedirect.com/science/article/pii/S187705092400125X
+    image: https://storage.googleapis.com/post_haolin/ism_schematic.png
 
   - title: "CAtNIPP: Context-Aware Attention-Based Network for Informative Path Planning"
     authors: Yuhong Cao, Yizhuo Wang, Apoorva Vashisth, <strong>Haolin Fan</strong>, Guillaume Adrien Sartoretti
@@ -92,3 +98,4 @@ main:
     pdf: https://proceedings.mlr.press/v205/cao23b/cao23b.pdf
     code: https://github.com/marmotlab/CAtNIPP
     page: https://proceedings.mlr.press/v205/cao23b.html
+    image: https://storage.googleapis.com/post_haolin/catnipp_sim_preview.gif
