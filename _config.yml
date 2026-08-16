@@ -1,0 +1,46 @@
+# Basic Information 
+title: Haolin Fan
+position: Research Fellow
+affiliation: Nanyang Technological University
+affiliation_link: https://www.ntu.edu.sg/mae
+affiliation_logo: ./assets/img/ntu.svg
+email: haolin.fan@ntu.edu.sg
+
+# Search Engine Optimization (SEO)
+keywords: haolin fan, fanhaolin, oliverfan, haolinfan
+canonical: hhttps://fhl1998.github.io
+description: Haolin Fan is a postdoctoral research fellow at Nanyang Technological University. His research lies in developing intelligent manufacturing systems that integrate Large Language Models (LLMs), Vision Language Models (VLMs), Knowledge Graphs, and Reinforcement Learning to enhance process understanding, decision-making, and human-centric automation.
+
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+ORCID: https://orcid.org/0000-0002-1808-2660
+google_scholar: https://scholar.google.com/citations?user=dVRv_vgAAAAJ&hl=en&inst=3212728378801010220
+github_link: https://github.com/FHL1998
+linkedin: https://www.linkedin.com/in/haolin-fan-526135219
+
+# Images 
+avatar: https://media.licdn.com/dms/image/v2/D5603AQFfDvq_tbg7Yg/profile-displayphoto-crop_800_800/B56Zx5GuqVJUAM-/0/1771558338413?e=1788393600&v=beta&t=hHSlaiI9ZeJ74gPHhJdk6zvo6i-hf2wofg8zMEr3ywk
+
+# Footnotes
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+#clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
