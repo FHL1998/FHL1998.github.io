@@ -22,14 +22,14 @@ main:
     conference_short: RCIM
     conference: Robotics and Computer-Integrated Manufacturing <strong>(RCIM)</strong>, Volume 99, 103215, 2026.
     page: https://www.sciencedirect.com/science/article/pii/S0736584525002698
-    image: https://storage.googleapis.com/llm_rl.jpg
+    image: https://storage.googleapis.com/post_haolin/llm_rl.jpg
 
   - title: "Multimodal Wearable Biosensing Meets Multidomain AI: A Pathway to Decentralized Healthcare"
     authors: Chenshu Liu, <strong>Haolin Fan</strong>, Minwoo Kim, Tong Zhou, Pinyi Yang, Lingdi Zhao, Yiran Wang, Ziyuan Che, Chia-Wei Liu, Bingbing Li, Yangzhi Zhu
     conference_short: AdvSci
     conference: Advanced Science <strong>(Advanced Science)</strong>, 2026.
     page: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202522900
-    image: https://storage.googleapis.com/advance_science.jpg
+    image: https://storage.googleapis.com/post_haolin/advance_science.jpg
 
 
   - title: "Sim2Know: New Paradigm of Digital Twins to Design and Inform Human-Centric Knowledge System"
@@ -37,7 +37,7 @@ main:
     conference_short: CIRP
     conference: CIRP Annals <strong>(CIRP)</strong>, Volume 74, Number 1, pages 215-219, 2025.
     page: https://www.sciencedirect.com/science/article/pii/S0007850625000745
-    image: https://storage.googleapis.com/sim2real_schematic.jpg
+    image: https://storage.googleapis.com/post_haolin/sim2real_schematic.jpg
 
 
   - title: "MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing"
