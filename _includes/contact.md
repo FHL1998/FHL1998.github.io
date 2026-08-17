@@ -9,7 +9,7 @@
 
   {% if site.clustrmaps_id %}
   <div class="contact-map" style="width:100px; height:100px; overflow:hidden; justify-self:end; pointer-events:none;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d={{ site.clustrmaps_id }}"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/globe.js?d={{ site.clustrmaps_id }}&w=a"></script>
   </div>
   {% endif %}
 </div>
