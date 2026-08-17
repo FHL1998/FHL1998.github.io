@@ -205,21 +205,7 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .contact-grid { display: grid; grid-template-columns: minmax(0, 1fr) 100px; gap: 24px; align-items: start; margin-top: 12px; }
 .contact-details { line-height: 1.8; }
-.contact-map { width: 100px; height: 100px; justify-self: end; overflow: hidden; pointer-events: none; }
-.contact-map * {
-  max-width: 100px !important;
-  max-height: 100px !important;
-}
-.contact-map img,
-.contact-map canvas,
-.contact-map iframe,
-.contact-map object,
-.contact-map embed {
-  width: 100px !important;
-  height: 100px !important;
-  max-width: 100px !important;
-  max-height: 100px !important;
-  object-fit: contain;
-}
+.contact-map { width: 100px; justify-self: end; pointer-events: none; }
+.contact-map img { max-width: 100%; height: auto; }
 
 @media print, screen and (max-width: 480px) { .contact-grid { grid-template-columns: 1fr; gap: 18px; } .contact-map { justify-self: start; } }
