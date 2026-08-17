@@ -152,15 +152,15 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .bio-section h2 { margin-top: 42px; margin-bottom: 18px; }
 
-.bio-timeline { display: grid; gap: 15px; margin: 0 0 26px; }
+.bio-timeline { display: grid; gap: 0; margin: 0 0 26px; }
 
-.bio-item { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 13px; position: relative; }
+.bio-item { display: grid; grid-template-columns: 28px minmax(0, 1fr); gap: 12px; align-items: start; margin-bottom: 14px; position: relative; }
 
-.bio-item::before { content: ""; position: absolute; top: 30px; bottom: -15px; left: 16px; width: 1px; background: rgba(19,41,75,0.14); }
+.bio-item::before { display: none; }
 
 .bio-item:last-child::before { display: none; }
 
-.bio-item i { width: 34px; height: 34px; border: 1px solid rgba(19,41,75,0.18); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; color: #13294B; background: #fff; font-size: 0.88rem; box-shadow: 0 2px 8px rgba(19,41,75,0.06); z-index: 1; }
+.bio-item i { width: 22px; margin-top: 3px; color: #13294B; text-align: center; }
 
 .bio-title { color: #1a1a1a; font-weight: 600; line-height: 1.35; }
 
