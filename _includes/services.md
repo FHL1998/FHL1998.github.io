@@ -12,16 +12,16 @@
 <h4 style="margin:0 10px 0;">Selected Journal Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Expert Systems with Applications</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Journal of Manufacturing Systems</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Knowledge-Based Systems</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Manufacturing Letters</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Advanced Engineering Informatics</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Robotics and Computer-Integrated Manufacturing</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Scientific Reports</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Computers &amp; Electrical Engineering</autocolor></a></li>
-  <li><a href="https://orcid.org/0000-0002-1808-2660"><autocolor>Information Fusion</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems with Applications</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/journal-of-manufacturing-systems"><autocolor>Journal of Manufacturing Systems</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based Systems</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/manufacturing-letters"><autocolor>Manufacturing Letters</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics"><autocolor>Advanced Engineering Informatics</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing"><autocolor>Robotics and Computer-Integrated Manufacturing</autocolor></a></li>
+  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering"><autocolor>Computers &amp; Electrical Engineering</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor>Information Fusion</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Service and Leadership</h4>
