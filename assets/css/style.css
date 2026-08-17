@@ -182,3 +182,9 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .contact-list li { margin-bottom: 8px; line-height: 1.62; }
 .contact-list li:last-child { margin-bottom: 0; }
 .contact-list i { color: #13294B; margin-right: 7px; }
+
+.contact-grid { display: grid; grid-template-columns: minmax(0, 1fr) 112px; gap: 26px; align-items: start; margin-top: 36px; }
+.contact-details { line-height: 1.8; }
+.contact-map { width: 112px; min-height: 112px; justify-self: end; pointer-events: none; }
+
+@media print, screen and (max-width: 480px) { .contact-grid { grid-template-columns: 1fr; gap: 18px; } .contact-map { justify-self: start; } }
