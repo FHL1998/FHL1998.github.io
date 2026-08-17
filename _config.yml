@@ -34,7 +34,7 @@ avatar: https://media.licdn.com/dms/image/v2/D5603AQFfDvq_tbg7Yg/profile-display
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-#clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+clustrmaps_id: 1WAW68zjH86Sg6Jrn-uHPkx-M2Cpbj3fAGufDFwFB6I
 
 # The following files will be removed from the generated website.
 exclude:
