@@ -19,11 +19,11 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-ORCID: https://orcid.org/0000-0002-1808-2660
+orcid: https://orcid.org/0000-0002-1808-2660
 google_scholar: https://scholar.google.com/citations?user=dVRv_vgAAAAJ&hl=en&inst=3212728378801010220
 github_link: https://github.com/FHL1998
 linkedin: https://www.linkedin.com/in/haolin-fan-526135219
-
+cv_link: https://storage.googleapis.com/post_haolin/CV%20Haolin%20Fan.pdf
 # Images 
 avatar: https://media.licdn.com/dms/image/v2/D5603AQFfDvq_tbg7Yg/profile-displayphoto-crop_800_800/B56Zx5GuqVJUAM-/0/1771558338413?e=1788393600&v=beta&t=hHSlaiI9ZeJ74gPHhJdk6zvo6i-hf2wofg8zMEr3ywk
 
