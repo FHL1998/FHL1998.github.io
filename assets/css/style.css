@@ -205,7 +205,7 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .contact-grid { display: grid; grid-template-columns: minmax(0, 1fr) 100px; gap: 24px; align-items: start; margin-top: 12px; }
 .contact-details { line-height: 1.8; }
-.contact-map { width: 100px; justify-self: end; pointer-events: none; }
+.contact-map { width: 100px; justify-self: end; }
 .contact-map img { max-width: 100%; height: auto; }
 
 @media print, screen and (max-width: 480px) { .contact-grid { grid-template-columns: 1fr; gap: 18px; } .contact-map { justify-self: start; } }

@@ -7,10 +7,11 @@
     <div>Office: <a href="https://maps.app.goo.gl/BHKPS163hPMqXngD7">Industrial Robotics Lab N3-01B-09</a></div>
   </div>
 
-  {% if site.clustrmaps_id %}
-  <div class="contact-map" style="width:100px; justify-self:end; pointer-events:none;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d={{ site.clustrmaps_id }}"></script>
+  {% if site.mapmyvisitors_id %}
+  <div class="contact-map" style="width:100px; justify-self:end;">
+    <a href="https://mapmyvisitors.com/web/{{ site.mapmyvisitors_id }}" target="_blank" rel="noopener noreferrer">
+      <img src="https://mapmyvisitors.com/map.png?d={{ site.mapmyvisitors_id }}&amp;cl=ffffff" alt="Visitor map">
+    </a>
   </div>
   {% endif %}
 </div>
-

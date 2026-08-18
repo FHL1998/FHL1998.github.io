@@ -31,10 +31,10 @@ avatar: https://media.licdn.com/dms/image/v2/D5603AQFfDvq_tbg7Yg/profile-display
 #footnote: Feel free to use my website's source code.
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: 1WAW68zjH86Sg6Jrn-uHPkx-M2Cpbj3fAGufDFwFB6I
+# Visitor map
+# Generate a fresh ID for https://fhl1998.github.io/ at https://mapmyvisitors.com/add.
+# The old ClustrMaps-style token did not resolve as a MapMyVisitors site.
+mapmyvisitors_id: Xj6CuwfZ06R0277UEPHiVlXVLKI7rGyPBNtFswspMC8&cl
 
 # The following files will be removed from the generated website.
 exclude:
