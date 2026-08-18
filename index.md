@@ -21,7 +21,7 @@ My recent work focuses on LLM/VLM-enabled digital twins, autonomous additive man
       <div>
         <div class="bio-title">Ph.D. (Mechanical Engineering) <span class="bio-year">2026</span></div>
         <div class="bio-meta"><a href="https://www.nus.edu.sg/">National University of Singapore</a></div>
-        <div class="bio-note">Supervised by <a href="https://cde.nus.edu.sg/me/staff/fuh-ying-hsi/">Prof. Jerry Fuh Ying Hsi</a>, <a href="https://cde.nus.edu.sg/me/staff/lu-wen-feng-2/">Prof. Wen Feng Lu</a>, and <a href="https://www.ecs.csun.edu/~bingbing.li/">Prof. Bingbing Li</a>.</div>
+        <div class="bio-note">Supervised by <a href="https://cde.nus.edu.sg/me/staff/fuh-ying-hsi/">Prof. Jerry Fuh Ying Hsi</a>, <a href="https://cde.nus.edu.sg/me/staff/lu-wen-feng-2/">Prof. Wen Feng Lu</a>, and <a href="https://academics.csun.edu/faculty/bingbing.li">Prof. Bingbing Li</a>.</div>
       </div>
     </div>
     <div class="bio-item" style="display: grid; grid-template-columns: 28px minmax(0, 1fr); gap: 12px; align-items: start; margin-bottom: 14px;">
