@@ -9,7 +9,7 @@
   </div>
 
   {% if site.mapmyvisitors_widget_token %}
-  <div class="contact-map" style="width:160px; justify-self:end;">
+  <div class="contact-map" style="width:150px; justify-self:end;">
     <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_widget_token }}&amp;w=a"></script>
   </div>
   {% endif %}
