@@ -32,9 +32,9 @@ avatar: https://media.licdn.com/dms/image/v2/D5603AQFfDvq_tbg7Yg/profile-display
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Visitor map
-# Generate a fresh ID for https://fhl1998.github.io/ at https://mapmyvisitors.com/add.
-# The old ClustrMaps-style token did not resolve as a MapMyVisitors site.
-mapmyvisitors_id: Xj6CuwfZ06R0277UEPHiVlXVLKI7rGyPBNtFswspMC8&cl
+# Public stats page: https://mapmyvisitors.com/web/1c7in
+mapmyvisitors_site_id: 1c7in
+mapmyvisitors_widget_token: Xj6CuwfZ06R0277UEPHiVlXVLKI7rGyPBNtFswspMC8
 
 # The following files will be removed from the generated website.
 exclude:
