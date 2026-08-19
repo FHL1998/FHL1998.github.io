@@ -8,7 +8,7 @@ email: haolin.fan@ntu.edu.sg
 
 # Search Engine Optimization (SEO)
 keywords: haolin fan, fanhaolin, oliverfan, haolinfan
-canonical: https://fhl1998.github.io
+canonical: https://oliverfanhl.github.io/
 description: Haolin Fan is a postdoctoral research fellow at Nanyang Technological University. His research lies in developing autonomous manufacturing systems.
 
 # The option is used to enable the Illinois template.
@@ -21,7 +21,7 @@ enable_last_update: false
 link_type: icon #text/icon
 orcid: https://orcid.org/0000-0002-1808-2660
 google_scholar: https://scholar.google.com/citations?user=dVRv_vgAAAAJ&hl=en&inst=3212728378801010220
-github_link: https://github.com/FHL1998
+github_link: https://github.com/OliverFanHL
 linkedin: https://www.linkedin.com/in/haolin-fan-526135219
 cv_link: https://storage.googleapis.com/post_haolin/CV%20Haolin%20Fan.pdf
 # Images 
